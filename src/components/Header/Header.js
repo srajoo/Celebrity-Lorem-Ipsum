@@ -39,7 +39,7 @@ function Header({
                     </div>
                     <animated.div className={ classnames('c-hero__image fadeInUp', celebrity) } style={trail[2]}>
                         <img 
-                            src={'/' + celebrity + '.png'} 
+                            src={'/Celebrity-Lorem-Ipsum/' + celebrity + '.png'} 
                             className='u-width-12 js-jeff-img-1 u-zi-10'
                             alt={STATS[celebrity]?.displayName}
                         />
