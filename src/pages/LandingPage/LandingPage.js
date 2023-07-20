@@ -6,7 +6,7 @@ import Content from "../../components/Content/Content";
 function LandingPage() {
 
     const [paragraphs, setParagraphs] = useState(1);
-    const [celebrity, setCelebrity] = useState("Ryan");
+    const [celebrity, setCelebrity] = useState("Kanye");
     
     return (
         <div>
