@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Celebrity-Lorem-Ipsum/static/css/main.fac9a545.css",
-    "main.js": "/Celebrity-Lorem-Ipsum/static/js/main.6124e91b.js",
+    "main.js": "/Celebrity-Lorem-Ipsum/static/js/main.8f6c7480.js",
     "static/js/787.27814ed7.chunk.js": "/Celebrity-Lorem-Ipsum/static/js/787.27814ed7.chunk.js",
     "index.html": "/Celebrity-Lorem-Ipsum/index.html",
     "main.fac9a545.css.map": "/Celebrity-Lorem-Ipsum/static/css/main.fac9a545.css.map",
-    "main.6124e91b.js.map": "/Celebrity-Lorem-Ipsum/static/js/main.6124e91b.js.map",
+    "main.8f6c7480.js.map": "/Celebrity-Lorem-Ipsum/static/js/main.8f6c7480.js.map",
     "787.27814ed7.chunk.js.map": "/Celebrity-Lorem-Ipsum/static/js/787.27814ed7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fac9a545.css",
-    "static/js/main.6124e91b.js"
+    "static/js/main.8f6c7480.js"
   ]
 }
